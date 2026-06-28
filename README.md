@@ -54,7 +54,7 @@ Build & Run
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:yourusername/CardGame-Slg.git
+   git clone git@github.com:Mithene/CardGame-Slg.git
    ```
 2. Open the .sln solution file in Visual Studio.
 3. Press Ctrl + F5 to run without debugging, or F5 to debug.
